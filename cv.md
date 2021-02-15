@@ -35,4 +35,8 @@ console.log(factorial(5));
 
    BELARUS STATE ECONOMIC UNIVERSITY (2012 - 2017)\
    Faculty of Commerce and Tourism
+   
+### **English skills:**
+
+Today I have A2 English level. For 2 years I learned English with tutor. And my ex-work with foreigners helped me to improve my English.
 
