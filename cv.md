@@ -7,3 +7,16 @@
    - Email: laryionau@yandex.ru
    - [Telegram](https://t.me/lariarty)
    - [Instagram](https://www.instagram.com/larionov_ar/)
+   
+### **Summary**
+
+I'm from Minsk, Belarus. For the last 4 month I've toughly learned HTML, CSS and JS. I’m really interested in joining IT and move to a new level of my career. According to my ex-colleagues, I'm an effective team player, have a well-developed communication skills and strong focus on self-development.
+
+### **Skills and Knowledge:**
+
+   - HTML
+   - CSS
+   - JavaScript
+   - Git
+   
+
