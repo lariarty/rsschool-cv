@@ -19,4 +19,15 @@ I'm from Minsk, Belarus. For the last 4 month I've toughly learned HTML, CSS and
    - JavaScript
    - Git
    
+### **Сode example:**
+
+**get a Factorial of 5**
+ ```
+ function factorial(n) {
+  return n ? n * factorial(n - 1) : 1;
+}
+
+console.log(factorial(5));
+```
+
 
