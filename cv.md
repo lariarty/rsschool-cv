@@ -29,5 +29,10 @@ I'm from Minsk, Belarus. For the last 4 month I've toughly learned HTML, CSS and
 
 console.log(factorial(5));
 ```
+### **Work experience:**
 
+### **Education:**
+
+   BELARUS STATE ECONOMIC UNIVERSITY (2012 - 2017)\
+   Faculty of Commerce and Tourism
 
